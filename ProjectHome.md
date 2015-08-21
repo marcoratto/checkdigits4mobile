@@ -1,0 +1,1 @@
+J2ME utility for calculating any kind of Check Digits.
